@@ -8,7 +8,7 @@ County Votes:
 Jefferson has 38855 votes with 10.5% 
 Denver has 306055 votes with 82.8% 
 Arapahoe has 24801 votes with 6.7% 
-Denver is the largest county with 306055
+Denver has the largest number of votes with 306055 votes
 Charles Casper Stockham: 23.0% (85,213)
 Diana DeGette: 73.8% (272,892)
 Raymon Anthony Doane: 3.1% (11,606)
