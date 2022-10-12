@@ -1,8 +1,10 @@
 # PyPoll_Challange
 
 Module # 3 - Written Analysis of the Election Audit
+___________________________________________________________________________________________________________
 
 Overview of Election Audit:
+___________________________
 
 The purpose of the election audit analysis is to analysis election result data using python. We used various techniques using python to analyze the raw voting data to determine the following:
 
@@ -13,8 +15,10 @@ Percentage of votes that each of the 3 candidates received
 Winner of the election 
 
 We then exported our findings into a .txt file titled election_analysis.txt
+___________________________________________________________________________________________________________
 
 Election-Audit Results:
+___________________________
 
 Total Votes
 Total Votes: 369,711
@@ -40,8 +44,10 @@ Which candidate won the election, what was their vote count, and what was their 
 -Winner: Diana DeGette
 -Winning Vote Count: 272,892
 -Winning Percentage: 73.8%
+___________________________________________________________________________________________________________
 
 Election-Audit Summary:
+___________________________
 
 This script can be used to determine which country has the largest voter turnout. In our analysis, we can see that Denver had the highest voter turnout. In the future candidates can use this data to determine which locations to focus their campaign. 
 
